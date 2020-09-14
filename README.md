@@ -6,6 +6,7 @@ We want a simple app to get events of a specific calendar, and add events to it 
 - event name
 - due date
 - repeat 
+
 and also a floating action button in the bottom of page which opens a modal that gets the cited fields, and creates a new event (must be created in google calendar).
 
 ### Note
