@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a1eb95d5-a101-41d7-b550-f697e12d4293" name="Default Changelist" comment="test" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[]" />
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1mxyx9Yel3v9Y7DrkoxSg0f9B3H" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="android.sdk.path" value="$PROJECT_DIR$/../Library/Android/sdk" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="flutter.settings" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="FlutterRunConfigurationType" factoryName="Flutter">
+      <option name="filePath" value="$PROJECT_DIR$/flutter_calendar/lib/main.dart" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a1eb95d5-a101-41d7-b550-f697e12d4293" name="Default Changelist" comment="" />
+      <created>1610449780171</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1610449780171</updated>
+    </task>
+    <task id="LOCAL-00001" summary="init project">
+      <created>1610452066331</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1610452066331</updated>
+    </task>
+    <task id="LOCAL-00002" summary="test">
+      <created>1610452610688</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1610452610688</updated>
+    </task>
+    <task id="LOCAL-00003" summary="test">
+      <created>1610452884156</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1610452884156</updated>
+    </task>
+    <task id="LOCAL-00004" summary="test">
+      <created>1610453326004</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1610453326005</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="init project" />
+    <MESSAGE value="test" />
+    <option name="LAST_COMMIT_MESSAGE" value="test" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1752" y="160" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1610451877280">
+      <screen x="1440" y="25" width="1920" height="1055" />
+    </state>
+    <state x="1752" y="160" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.25.1440.790/1440.25.1920.1055@1440.25.1920.1055" timestamp="1610451877280" />
+    <state x="2025" y="295" key="#com.intellij.ide.util.TreeFileChooserDialog" timestamp="1610451836151">
+      <screen x="1440" y="25" width="1920" height="1055" />
+    </state>
+    <state x="2025" y="295" key="#com.intellij.ide.util.TreeFileChooserDialog/0.25.1440.790/1440.25.1920.1055@1440.25.1920.1055" timestamp="1610451836151" />
+    <state width="1500" height="263" key="GridCell.Tab.0.bottom" timestamp="1610452617510">
+      <screen x="1440" y="25" width="1920" height="970" />
+    </state>
+    <state width="1500" height="263" key="GridCell.Tab.0.bottom/0.25.1440.875/1440.25.1920.970@1440.25.1920.970" timestamp="1610452617510" />
+    <state width="1500" height="263" key="GridCell.Tab.0.center" timestamp="1610452617509">
+      <screen x="1440" y="25" width="1920" height="970" />
+    </state>
+    <state width="1500" height="263" key="GridCell.Tab.0.center/0.25.1440.875/1440.25.1920.970@1440.25.1920.970" timestamp="1610452617509" />
+    <state width="1500" height="263" key="GridCell.Tab.0.left" timestamp="1610452617508">
+      <screen x="1440" y="25" width="1920" height="970" />
+    </state>
+    <state width="1500" height="263" key="GridCell.Tab.0.left/0.25.1440.875/1440.25.1920.970@1440.25.1920.970" timestamp="1610452617508" />
+    <state width="1500" height="263" key="GridCell.Tab.0.right" timestamp="1610452617510">
+      <screen x="1440" y="25" width="1920" height="970" />
+    </state>
+    <state width="1500" height="263" key="GridCell.Tab.0.right/0.25.1440.875/1440.25.1920.970@1440.25.1920.970" timestamp="1610452617510" />
+    <state x="1789" y="137" key="SettingsEditor" timestamp="1610451677279">
+      <screen x="1440" y="25" width="1920" height="1055" />
+    </state>
+    <state x="1789" y="137" key="SettingsEditor/0.25.1440.790/1440.25.1920.1055@1440.25.1920.1055" timestamp="1610451677279" />
+    <state x="1811" y="236" key="Vcs.Push.Dialog.v2" timestamp="1610453330058">
+      <screen x="1440" y="25" width="1920" height="970" />
+    </state>
+    <state x="1811" y="254" key="Vcs.Push.Dialog.v2/0.25.1440.790/1440.25.1920.1055@1440.25.1920.1055" timestamp="1610452073908" />
+    <state x="1811" y="236" key="Vcs.Push.Dialog.v2/0.25.1440.875/1440.25.1920.970@1440.25.1920.970" timestamp="1610453330058" />
+    <state x="1994" y="435" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1610451669697">
+      <screen x="1440" y="25" width="1920" height="1055" />
+    </state>
+    <state x="1994" y="435" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.25.1440.790/1440.25.1920.1055@1440.25.1920.1055" timestamp="1610451669697" />
+  </component>
+</project>
